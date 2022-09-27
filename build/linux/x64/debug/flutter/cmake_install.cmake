@@ -1,8 +1,8 @@
-# Install script for directory: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/linux/flutter
+# Install script for directory: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

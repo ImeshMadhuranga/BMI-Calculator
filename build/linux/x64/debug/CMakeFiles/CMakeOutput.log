@@ -14,22 +14,22 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is Clang, found in "/home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+The CXX compiler identification is Clang, found in "/home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
+Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_fed6d"
-[1/2] Building CXX object CMakeFiles/cmTC_fed6d.dir/testCXXCompiler.cxx.o
-[2/2] Linking CXX executable cmTC_fed6d
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_c5d7c"
+[1/2] Building CXX object CMakeFiles/cmTC_c5d7c.dir/testCXXCompiler.cxx.o
+[2/2] Linking CXX executable cmTC_c5d7c
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
+Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_a823b"
-[1/2] Building CXX object CMakeFiles/cmTC_a823b.dir/CMakeCXXCompilerABI.cpp.o
-[2/2] Linking CXX executable cmTC_a823b
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_fa086"
+[1/2] Building CXX object CMakeFiles/cmTC_fa086.dir/CMakeCXXCompilerABI.cpp.o
+[2/2] Linking CXX executable cmTC_fa086
 clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)
 Target: x86_64-pc-linux-gnu
 Thread model: posix
@@ -39,16 +39,16 @@ Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/11
 Candidate multilib: .;@m64
 Selected multilib: .;@m64
- "/snap/flutter/current/usr/bin/ld" --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a823b /snap/flutter/current/usr/lib/x86_64-linux-gnu/crt1.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crti.o /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtbegin.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib/ -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/usr/lib/x86_64-linux-gnu/../../lib64 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../.. -L/snap/flutter/126/usr/lib/llvm-6.0/bin/../lib -L/lib -L/usr/lib -lblkid -lgcrypt -llzma -llz4 -lgpg-error -luuid -lpthread -ldl CMakeFiles/cmTC_a823b.dir/CMakeCXXCompilerABI.cpp.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtend.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crtn.o
+ "/snap/flutter/current/usr/bin/ld" --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_fa086 /snap/flutter/current/usr/lib/x86_64-linux-gnu/crt1.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crti.o /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtbegin.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib/ -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/usr/lib/x86_64-linux-gnu/../../lib64 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../.. -L/snap/flutter/126/usr/lib/llvm-6.0/bin/../lib -L/lib -L/usr/lib -lblkid -lgcrypt -llzma -llz4 -lgpg-error -luuid -lpthread -ldl CMakeFiles/cmTC_fa086.dir/CMakeCXXCompilerABI.cpp.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtend.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crtn.o
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_a823b"]
-  ignore line: [[1/2] Building CXX object CMakeFiles/cmTC_a823b.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [[2/2] Linking CXX executable cmTC_a823b]
+  ignore line: [Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_fa086"]
+  ignore line: [[1/2] Building CXX object CMakeFiles/cmTC_fa086.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [[2/2] Linking CXX executable cmTC_fa086]
   ignore line: [clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)]
   ignore line: [Target: x86_64-pc-linux-gnu]
   ignore line: [Thread model: posix]
@@ -60,7 +60,7 @@ Parsed CXX implicit link information from above output:
   ignore line: [@m64]
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
-  link line: [ "/snap/flutter/current/usr/bin/ld" --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a823b /snap/flutter/current/usr/lib/x86_64-linux-gnu/crt1.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crti.o /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtbegin.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib/ -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/usr/lib/x86_64-linux-gnu/../../lib64 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../.. -L/snap/flutter/126/usr/lib/llvm-6.0/bin/../lib -L/lib -L/usr/lib -lblkid -lgcrypt -llzma -llz4 -lgpg-error -luuid -lpthread -ldl CMakeFiles/cmTC_a823b.dir/CMakeCXXCompilerABI.cpp.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtend.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crtn.o]
+  link line: [ "/snap/flutter/current/usr/bin/ld" --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_fa086 /snap/flutter/current/usr/lib/x86_64-linux-gnu/crt1.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crti.o /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtbegin.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib/ -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/usr/lib/x86_64-linux-gnu/../../lib64 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../.. -L/snap/flutter/126/usr/lib/llvm-6.0/bin/../lib -L/lib -L/usr/lib -lblkid -lgcrypt -llzma -llz4 -lgpg-error -luuid -lpthread -ldl CMakeFiles/cmTC_fa086.dir/CMakeCXXCompilerABI.cpp.o -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -L/snap/flutter/current/lib/x86_64-linux-gnu -L/snap/flutter/current/usr/lib -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtend.o /snap/flutter/current/usr/lib/x86_64-linux-gnu/crtn.o]
     arg [/snap/flutter/current/usr/bin/ld] ==> ignore
     arg [--eh-frame-hdr] ==> ignore
     arg [-m] ==> ignore
@@ -68,7 +68,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_a823b] ==> ignore
+    arg [cmTC_fa086] ==> ignore
     arg [/snap/flutter/current/usr/lib/x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/snap/flutter/current/usr/lib/x86_64-linux-gnu/crti.o] ==> ignore
     arg [/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8/crtbegin.o] ==> ignore
@@ -96,7 +96,7 @@ Parsed CXX implicit link information from above output:
     arg [-luuid] ==> lib [uuid]
     arg [-lpthread] ==> lib [pthread]
     arg [-ldl] ==> lib [dl]
-    arg [CMakeFiles/cmTC_a823b.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_fa086.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8] ==> dir [/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8]
     arg [-L/snap/flutter/current/usr/lib/x86_64-linux-gnu] ==> dir [/snap/flutter/current/usr/lib/x86_64-linux-gnu]
     arg [-L/snap/flutter/current/lib/x86_64-linux-gnu] ==> dir [/snap/flutter/current/lib/x86_64-linux-gnu]
@@ -138,11 +138,11 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
+Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_b01f9"
-[1/2] Building CXX object CMakeFiles/cmTC_b01f9.dir/feature_tests.cxx.o
-[2/2] Linking CXX executable cmTC_b01f9
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_2640c"
+[1/2] Building CXX object CMakeFiles/cmTC_2640c.dir/feature_tests.cxx.o
+[2/2] Linking CXX executable cmTC_2640c
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -205,11 +205,11 @@ Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_b01f9"
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
+Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_0c993"
-[1/2] Building CXX object CMakeFiles/cmTC_0c993.dir/feature_tests.cxx.o
-[2/2] Linking CXX executable cmTC_0c993
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_ea25a"
+[1/2] Building CXX object CMakeFiles/cmTC_ea25a.dir/feature_tests.cxx.o
+[2/2] Linking CXX executable cmTC_ea25a
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -272,11 +272,11 @@ Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_0c993"
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
+Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_771c5"
-[1/2] Building CXX object CMakeFiles/cmTC_771c5.dir/feature_tests.cxx.o
-[2/2] Linking CXX executable cmTC_771c5
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_a5ce7"
+[1/2] Building CXX object CMakeFiles/cmTC_a5ce7.dir/feature_tests.cxx.o
+[2/2] Linking CXX executable cmTC_a5ce7
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -339,11 +339,11 @@ Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_771c5"
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/bmi_calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
+Change Dir: /home/imesh/Desktop/Imesh/Github/BMI-Calculator/build/linux/x64/debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_8cb3b"
-[1/2] Building CXX object CMakeFiles/cmTC_8cb3b.dir/feature_tests.cxx.o
-[2/2] Linking CXX executable cmTC_8cb3b
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_cedea"
+[1/2] Building CXX object CMakeFiles/cmTC_cedea.dir/feature_tests.cxx.o
+[2/2] Linking CXX executable cmTC_cedea
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
